@@ -140,3 +140,7 @@ cython_debug/
 .parcel-cache/
 
 *.json
+
+test.py
+main.py
+quiz-questions/
